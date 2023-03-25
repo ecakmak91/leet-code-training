@@ -4,10 +4,10 @@ This repository contains my solutions to various LeetCode problems written in Ja
 
 ## Target List
 - Array
-* [__*Two Sum*__]https://github.com/ecakmak91/leet-code-training/blob/main/1-two-sum/index.js
-* [__*Best Time to Buy and Sell Stock*__]https://github.com/ecakmak91/leet-code-training/blob/main/121-best-time-to-buy-and-sell-stock/index.js
-* [__*Contains Duplicate*__]https://github.com/ecakmak91/leet-code-training/blob/main/217-contains-duplicate/index.js
-* [__*Product of Array Except Self*__]https://github.com/ecakmak91/leet-code-training/blob/main/238-product-of-array-except-self/index.js
+* [__*Two Sum*__](https://github.com/ecakmak91/leet-code-training/blob/main/1-two-sum/index.js)
+* [__*Best Time to Buy and Sell Stock*__](https://github.com/ecakmak91/leet-code-training/blob/main/121-best-time-to-buy-and-sell-stock/index.js)
+* [__*Contains Duplicate*__](https://github.com/ecakmak91/leet-code-training/blob/main/217-contains-duplicate/index.js)
+* [__*Product of Array Except Self*__](https://github.com/ecakmak91/leet-code-training/blob/main/238-product-of-array-except-self/index.js)
 * Maximum Subarray
 * Maximum Product Subarray
 * Find Minimum in Rotated Sorted Array
@@ -22,7 +22,7 @@ This repository contains my solutions to various LeetCode problems written in Ja
 * Reverse Bits
 - Dynamic Programming
 * Climbing Stairs
-* [__*Coin Change*__]https://github.com/ecakmak91/leet-code-training/blob/main/322-coin-change/index.js
+* [__*Coin Change*__](https://github.com/ecakmak91/leet-code-training/blob/main/322-coin-change/index.js)
 * Longest Increasing Subsequence
 * Longest Common Subsequence
 * Word Break Problem
@@ -127,8 +127,8 @@ git push origin feature/your-feature-name
 ```
 Here are some resources that I have found helpful in improving my JavaScript skills:
 
-[JavaScript.info]https://javascript.info/
-[LeetCode]https://leetcode.com/
+[JavaScript.info](https://javascript.info/)
+[LeetCode](https://leetcode.com/)
 
 ### License
 This repository is licensed under the MIT License. See the LICENSE file for details.
