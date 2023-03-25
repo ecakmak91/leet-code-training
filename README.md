@@ -6,8 +6,8 @@ This repository contains my solutions to various LeetCode problems written in Ja
 - Array
 * *italik* Two Sum _italik_
 * *italik* Best Time to Buy and Sell Stock _italik_
-* Contains Duplicate
-* Product of Array Except Self
+* *italik* Contains Duplicate _italik_
+* *italik* Product of Array Except Self _italik_
 * Maximum Subarray
 * Maximum Product Subarray
 * Find Minimum in Rotated Sorted Array
