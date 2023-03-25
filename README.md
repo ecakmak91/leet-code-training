@@ -4,10 +4,10 @@ This repository contains my solutions to various LeetCode problems written in Ja
 
 ## Target List
 - Array
-* *Two Sum*
-* *Best Time to Buy and Sell Stock*
-* *Contains Duplicate*_
-* *Product of Array Except Self*
+* ** *Two Sum* **
+* ** *Best Time to Buy and Sell Stock* **
+* ** *Contains Duplicate* **
+* ** *Product of Array Except Self* **
 * Maximum Subarray
 * Maximum Product Subarray
 * Find Minimum in Rotated Sorted Array
@@ -22,7 +22,7 @@ This repository contains my solutions to various LeetCode problems written in Ja
 * Reverse Bits
 - Dynamic Programming
 * Climbing Stairs
-* *Coin Change*
+* ** *Coin Change* **
 * Longest Increasing Subsequence
 * Longest Common Subsequence
 * Word Break Problem
