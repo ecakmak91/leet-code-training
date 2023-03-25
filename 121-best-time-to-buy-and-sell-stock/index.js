@@ -1,15 +1,15 @@
 let maxProfit = function(prices) {
-  let maxProfit = 0;
-  let minValue = prices[0];
+  let result = 0;
+  let minVal = prices[0];
   for (let i = 1; i < prices.length; i++) {
-      if ((prices[i] - minValue) > maxProfit) {
-          maxProfit = prices[i] - minValue;
+      if ((prices[i] - minVal) > result) {
+        result = prices[i] - minVal;
       }
-      if ((prices[i] - minValue) < minValue) {
-        minValue = (prices[i] - minValue);
+      if (prices[i] < minVal) {
+        minVal = prices[i];
       }
   }
-  return maxProfit;
+  return result;
 };
 
 let prices = [7,1,5,3,6,4]
