@@ -1,4 +1,4 @@
-var twoSum = function(nums, target) {
+let twoSum = function(nums, target) {
   let currentIndex=0
   if(nums.length<3){
     return [0,1]
