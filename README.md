@@ -5,7 +5,7 @@ This repository contains my solutions to various LeetCode problems written in Ja
 ## Target List
 - Array
 * *italik* Two Sum _italik_
-* Best Time to Buy and Sell Stock
+* *italik* Best Time to Buy and Sell Stock _italik_
 * Contains Duplicate
 * Product of Array Except Self
 * Maximum Subarray
